@@ -1,4 +1,4 @@
-# Example of STOMP client-server interoperability using Java/Spring
+# STOMP client-server example, Java/Spring
 
 Run `stompdemo.service.ServerApp` and watch logs for messaging.
 
